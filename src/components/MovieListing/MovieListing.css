@@ -1,0 +1,19 @@
+@import "//src/common/baseclr.css";
+
+.movie-list,.show-list  h2 {
+  margin: 20px 0px;
+  color: var(--clr-primary-9);
+    margin-bottom: 10px;
+    font-weight: 400;
+  }
+/* 
+  .movie-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(220px,1fr));
+    gap: 15px;
+  } */
+
+
+
+
+
